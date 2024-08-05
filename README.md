@@ -1,1 +1,1 @@
-# Modern Java Technologies Project
+# Modern Java Technologies Course
