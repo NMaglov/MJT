@@ -1,4 +1,5 @@
-# Modern Java Technologies Course Project
+# Modern Java Technologies Course at FMI, SU
+# Course project:
 # Указания:
 # Spotify :notes:
 
